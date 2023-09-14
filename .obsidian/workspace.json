@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#태그",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,9 +158,9 @@
   },
   "active": "c530ebdfc52e995a",
   "lastOpenFiles": [
-    "무제 파일 1.canvas",
-    "2023-09-14.md",
     "무제 파일.canvas",
+    "2023-09-14.md",
+    "무제 파일 1.canvas",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/1장 데이터 시스템의 기초.md",
     "3.Resources/무제 파일.md",
     "3.Resources/Books",
