@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "551e7096b0046011",
+    "type": "split",
+    "children": [
+      {
+        "id": "be1fe5ef15db9ac5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c530ebdfc52e995a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-09-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf241ad2437b51d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6ce3ca70176418e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fea3385031a83b0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aef953028e15bf6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#태그",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07f6920556642815",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a23de6dc36936a23",
+    "type": "split",
+    "children": [
+      {
+        "id": "db4a0a0ac93cbd15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4793327751f21c76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-09-14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2a03104ed0e2928",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-09-14.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bd0434898228a42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e4f0779ddae50bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-09-14.md"
+              }
+            }
+          },
+          {
+            "id": "06da1686cc64f9b2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "publish:변경사항 출판": false
+    }
+  },
+  "active": "c530ebdfc52e995a",
+  "lastOpenFiles": [
+    "무제 파일 1.canvas",
+    "2023-09-14.md",
+    "무제 파일.canvas",
+    "3.Resources/Books/데이터 중심 애플리케이션 설계/1장 데이터 시스템의 기초.md",
+    "3.Resources/무제 파일.md",
+    "3.Resources/Books",
+    "4.Archive",
+    "3.Resources",
+    "2.Area",
+    "1.Project",
+    "2023-08-26.md",
+    "2023-09-13.md",
+    "무제 파일.md",
+    "무제 파일 2.canvas",
+    "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
+    "3.Resources/Books/데이터 중심 애플리케이션 설계",
+    "3.Resources/Books/Real MySQL/4장.md",
+    "3.Resources/Books/Real MySQL/무제 2.md",
+    "1.Project/CS 스터디/Java.md",
+    "1.Project/CS 스터디",
+    "3.Resources/Books/Real MySQL/assets/image.png",
+    "3.Resources/Books/Real MySQL/assets/image-20230807171609327.png",
+    "3.Resources/Books/Real MySQL/assets/image-20230807163522100.png",
+    "3.Resources/Books/Real MySQL/assets",
+    "3.Resources/Books/Real MySQL/8장 인덱스",
+    "3.Resources/Books/Real MySQL",
+    "Untitled.canvas"
+  ]
+}
