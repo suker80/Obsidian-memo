@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-14.md",
+                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/1장 데이터 시스템의 기초.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-14.md",
+                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/1장 데이터 시스템의 기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-14.md",
+                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/1장 데이터 시스템의 기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-14.md"
+                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/1장 데이터 시스템의 기초.md"
               }
             }
           },
@@ -153,16 +153,18 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "publish:변경사항 출판": false
+      "publish:변경사항 출판": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "c530ebdfc52e995a",
   "lastOpenFiles": [
-    "무제 파일.canvas",
+    "999.Templates/메모 기본 템플릿.md",
+    "999.Templates",
     "2023-09-14.md",
+    "무제 파일.canvas",
     "무제 파일 1.canvas",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/1장 데이터 시스템의 기초.md",
-    "3.Resources/무제 파일.md",
     "3.Resources/Books",
     "4.Archive",
     "3.Resources",
@@ -183,7 +185,6 @@
     "3.Resources/Books/Real MySQL/assets/image-20230807163522100.png",
     "3.Resources/Books/Real MySQL/assets",
     "3.Resources/Books/Real MySQL/8장 인덱스",
-    "3.Resources/Books/Real MySQL",
     "Untitled.canvas"
   ]
 }
