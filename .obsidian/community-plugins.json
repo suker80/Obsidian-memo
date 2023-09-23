@@ -2,5 +2,10 @@
   "obsidian-git",
   "templater-obsidian",
   "table-editor-obsidian",
-  "calendar"
+  "calendar",
+  "obsidian-full-calendar",
+  "periodic-notes",
+  "dataview",
+  "cm-editor-syntax-highlight-obsidian",
+  "highlightr-plugin"
 ]

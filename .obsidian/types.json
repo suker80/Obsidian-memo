@@ -4,6 +4,6 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "다 읽은 날짜": "date",
-    "최근 수정한 날짜": "datetime"
+    "최근 수정한 날짜": "text"
   }
 }
