@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
+                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
+                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
+                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md"
+                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md"
               }
             }
           },
@@ -177,8 +177,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fea3385031a83b0c",
+  "active": "031d7006db6b9a3c",
   "lastOpenFiles": [
+    "images/Pasted image 20230924205634.png",
+    "images/Pasted image 20230924205413.png",
+    "images/Pasted image 20230924203418.png",
+    "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색 1.md",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/1장 데이터 시스템의 기초.md",
@@ -198,7 +202,6 @@
     "3.Resources/Books/Real MySQL/4장.md",
     "3.Resources/Books/Real MySQL/무제 2.md",
     "4.Archive/Database",
-    "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
     "5.Daily",
     "4.Archive/Daily/2023-09-22.md",
     "4.Archive/Daily",
