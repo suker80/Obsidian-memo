@@ -13,9 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
+                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log/More About LSM Tree.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "74803ff27a263474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "130cdfb9502d83c9",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {
+                "language_from": "en",
+                "language_to": "ko",
+                "translation_service": "google_translate",
+                "auto_translate": false,
+                "apply_glossary": false,
+                "view_mode": 0,
+                "filter_mode": 0,
+                "show_attribution": false,
+                "top_buttons": [
+                  "change-service",
+                  "automatic-translation",
+                  "change-layout",
+                  "apply-filter",
+                  "open-settings"
+                ],
+                "left_buttons": [
+                  "paste",
+                  "clear"
+                ],
+                "right_buttons": [
+                  "copy"
+                ]
               }
             }
           }
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
+                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log/More About LSM Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
+                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log/More About LSM Tree.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md"
+                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log/More About LSM Tree.md"
               }
             }
           },
@@ -156,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,17 +211,20 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "translate:Open translation view": false
     }
   },
-  "active": "031d7006db6b9a3c",
+  "active": "130cdfb9502d83c9",
   "lastOpenFiles": [
+    "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
+    "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log/More About LSM Tree.md",
+    "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log",
     "images/Pasted image 20230924205634.png",
     "images/Pasted image 20230924205413.png",
     "images/Pasted image 20230924203418.png",
     "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색 1.md",
-    "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/1장 데이터 시스템의 기초.md",
     "4.Archive/Database/Index/클러스터 인덱스.md",
     "5.Daily/2023-09-23.md",
@@ -212,7 +252,6 @@
     "2023-09-14.md",
     "무제 파일 1.canvas",
     "3.Resources/Books",
-    "4.Archive",
     "2023-08-26.md",
     "2023-09-13.md",
     "무제 파일 2.canvas",
