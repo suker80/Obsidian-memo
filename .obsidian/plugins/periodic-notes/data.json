@@ -4,7 +4,7 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "999.Templates/메모 기본 템플릿.md",
+    "template": "999.Templates/간단 메모 템플릿.md",
     "folder": "5.Daily",
     "enabled": true
   },

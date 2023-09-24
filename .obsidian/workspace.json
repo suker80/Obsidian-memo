@@ -13,70 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "858a08c24ac02955",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "b8a19be887dce9b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a06ff1e425aaf6f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9587c3bca3b4f0b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19a3cdd760a2485c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.Archive/File Structure/힙파일(Heap File).md",
+                "file": "4.Archive/Database/Index/클러스터 인덱스 VS 논클러스터 인덱스.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.Archive/File Structure/힙파일(Heap File).md",
+                "file": "4.Archive/Database/Index/클러스터 인덱스 VS 논클러스터 인덱스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.Archive/File Structure/힙파일(Heap File).md",
+                "file": "4.Archive/Database/Index/클러스터 인덱스 VS 논클러스터 인덱스.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Archive/File Structure/힙파일(Heap File).md"
+                "file": "4.Archive/Database/Index/클러스터 인덱스 VS 논클러스터 인덱스.md"
               }
             }
           },
@@ -234,19 +177,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "19a3cdd760a2485c",
+  "active": "031d7006db6b9a3c",
   "lastOpenFiles": [
-    "4.Archive/Database/블룸 필터(Bloom Filter).md",
+    "images/Pasted image 20230924164159.png",
+    "4.Archive/Database/Index/클러스터 인덱스 VS 논클러스터 인덱스.md",
+    "images",
+    "images/Pasted image 20230924164032.png",
+    "5.Daily/2023-09-24.md",
+    "5.Daily/2023-09-23.md",
     "999.Templates/간단 메모 템플릿.md",
     "999.Templates/메모 기본 템플릿.md",
-    "4.Archive/File Structure/힙파일(Heap File).md",
+    "4.Archive/Database/etc",
+    "4.Archive/Database/Index",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
+    "4.Archive/File Structure/힙파일(Heap File).md",
+    "4.Archive/Database/etc/블룸 필터(Bloom Filter).md",
     "4.Archive/File Structure",
     "3.Resources/Books/Real MySQL/4장.md",
     "3.Resources/Books/Real MySQL/무제 2.md",
     "4.Archive/Database",
     "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
-    "5.Daily/2023-09-23.md",
     "5.Daily",
     "4.Archive/Daily/2023-09-22.md",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/1장 데이터 시스템의 기초.md",
@@ -259,9 +209,6 @@
     "무제 파일 1.canvas",
     "3.Resources/Books",
     "4.Archive",
-    "3.Resources",
-    "2.Area",
-    "1.Project",
     "2023-08-26.md",
     "2023-09-13.md",
     "무제 파일 2.canvas",
