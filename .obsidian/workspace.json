@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Archive/Database/Index/클러스터 인덱스 VS 논클러스터 인덱스.md",
+                "file": "4.Archive/Database/Index/클러스터 인덱스.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.Archive/Database/Index/클러스터 인덱스 VS 논클러스터 인덱스.md",
+                "file": "4.Archive/Database/Index/클러스터 인덱스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.Archive/Database/Index/클러스터 인덱스 VS 논클러스터 인덱스.md",
+                "file": "4.Archive/Database/Index/클러스터 인덱스.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Archive/Database/Index/클러스터 인덱스 VS 논클러스터 인덱스.md"
+                "file": "4.Archive/Database/Index/클러스터 인덱스.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,7 +180,7 @@
   "active": "031d7006db6b9a3c",
   "lastOpenFiles": [
     "images/Pasted image 20230924164159.png",
-    "4.Archive/Database/Index/클러스터 인덱스 VS 논클러스터 인덱스.md",
+    "4.Archive/Database/Index/클러스터 인덱스.md",
     "images",
     "images/Pasted image 20230924164032.png",
     "5.Daily/2023-09-24.md",
