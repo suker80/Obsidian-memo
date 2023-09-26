@@ -1,3 +1,6 @@
 ```javascript:(function(){function h(html){return html.replace(/<p>/g,'\n\n').replace(/<\/p>/g,'').replace(/<b>/g,'**').replace(/<\/b>/g,'**').replace(/<i>/g,'_').replace(/<\/i>/g,'_').replace(/<code[^>]*>/g,(match)=>{const lm=match.match(/class="[^"]*language-([^"]*)"/);return lm?%27\n```%27+lm[1]+%27\n%27:%27```%27;}).replace(/<\/code[^>]*>/g,%27```%27).replace(/<[^>]*>/g,%27%27).replace(/Copy code/g,%27%27).replace(/This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area./g,%27%27).trim();}const e=document.querySelectorAll(".text-base .mx-auto");let t="";for(const s of e){if(s.querySelector(".whitespace-pre-wrap")){t+=`**${s.querySelector(%27img%27)?%27You%27:%27ChatGPT%27}**: ${h(s.querySelector(".whitespace-pre-wrap").innerHTML)}\n\n`;}if(s.querySelector(".eKowCa")){t+=`**${s.querySelector(%27img%27)?%27You%27:%27ChatGPT%27}**: ${h(s.querySelector(".eKowCa").innerHTML)}\n\n`;}}const o=document.createElement("a");o.download="Conversation with ChatGPT.md";o.href=URL.createObjectURL(new Blob([t]));o.style.display="none";document.body.appendChild(o);o.click();})();
 ```
 
+- 중간에 있는 `eKowCa`  클래스 속성이 변경 될수도 있음에 유의하자
+- 새로 고침후 번역 버튼을 눌러서 번역이 출력되어야 한글 번역이 추출된다.
+- 

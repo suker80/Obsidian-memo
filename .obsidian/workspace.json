@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/ChatGPT/ChatGPT 지니 프롬프트 번역 후 마크다운 추출 북마클렛.md",
+                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/ChatGPT/ChatGPT 지니 프롬프트 번역 후 마크다운 추출 북마클렛.md",
+                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/ChatGPT/ChatGPT 지니 프롬프트 번역 후 마크다운 추출 북마클렛.md",
+                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/ChatGPT/ChatGPT 지니 프롬프트 번역 후 마크다운 추출 북마클렛.md"
+                "file": "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md"
               }
             }
           },
@@ -179,17 +179,18 @@
   },
   "active": "031d7006db6b9a3c",
   "lastOpenFiles": [
-    "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
-    "3.Resources/ChatGPT/ChatGPT 지니 프롬프트 번역 후 마크다운 추출 북마클렛.md",
-    "3.Resources/ChatGPT",
+    "3.Resources/Books/데이터 중심 애플리케이션 설계/1장 데이터 시스템의 기초.md",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log/More About LSM Tree.md",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
+    "3.Resources/Books/Real MySQL/4장.md",
+    "3.Resources/ChatGPT/ChatGPT 지니 프롬프트 번역 후 마크다운 추출 북마클렛.md",
+    "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
+    "3.Resources/ChatGPT",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log",
     "images/Pasted image 20230924205634.png",
     "images/Pasted image 20230924205413.png",
     "images/Pasted image 20230924203418.png",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색 1.md",
-    "3.Resources/Books/데이터 중심 애플리케이션 설계/1장 데이터 시스템의 기초.md",
     "4.Archive/Database/Index/클러스터 인덱스.md",
     "5.Daily/2023-09-23.md",
     "4.Archive/File Structure/힙파일(Heap File).md",
@@ -203,7 +204,6 @@
     "4.Archive/Database/Index",
     "4.Archive/Database/etc/블룸 필터(Bloom Filter).md",
     "4.Archive/File Structure",
-    "3.Resources/Books/Real MySQL/4장.md",
     "3.Resources/Books/Real MySQL/무제 2.md",
     "4.Archive/Database",
     "5.Daily",
