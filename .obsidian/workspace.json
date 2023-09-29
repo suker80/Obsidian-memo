@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.Daily/2023-09-24.md",
+                "file": "3.Resources/Books/Real MySQL/10장 실행 계획.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.Daily/2023-09-24.md",
+                "file": "3.Resources/Books/Real MySQL/10장 실행 계획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.Daily/2023-09-24.md",
+                "file": "3.Resources/Books/Real MySQL/10장 실행 계획.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.Daily/2023-09-24.md"
+                "file": "3.Resources/Books/Real MySQL/10장 실행 계획.md"
               }
             }
           },
@@ -180,6 +180,8 @@
   },
   "active": "031d7006db6b9a3c",
   "lastOpenFiles": [
+    "5.Daily/2023-09-24.md",
+    "3.Resources/Books/Real MySQL/10장 실행 계획.md",
     "5.Daily/2023-09-29.md",
     "1.Project/SKP 프로젝트(가명)/무제 파일.md",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log/More About LSM Tree.md",
@@ -203,7 +205,6 @@
     "images/Pasted image 20230924164159.png",
     "images",
     "images/Pasted image 20230924164032.png",
-    "5.Daily/2023-09-24.md",
     "999.Templates/간단 메모 템플릿.md",
     "999.Templates/메모 기본 템플릿.md",
     "4.Archive/Database/etc",
