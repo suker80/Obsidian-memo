@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.Daily/2023-09-26.md",
+                "file": "5.Daily/2023-09-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.Daily/2023-09-26.md",
+                "file": "5.Daily/2023-09-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.Daily/2023-09-26.md",
+                "file": "5.Daily/2023-09-24.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.Daily/2023-09-26.md"
+                "file": "5.Daily/2023-09-24.md"
               }
             }
           },
@@ -180,13 +180,14 @@
   },
   "active": "031d7006db6b9a3c",
   "lastOpenFiles": [
+    "5.Daily/2023-09-29.md",
     "1.Project/SKP 프로젝트(가명)/무제 파일.md",
+    "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log/More About LSM Tree.md",
+    "5.Daily/2023-09-26.md",
     "무제 파일.canvas",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
-    "5.Daily/2023-09-26.md",
     "1.Project/SKP 프로젝트(가명)",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/1장 데이터 시스템의 기초.md",
-    "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log/More About LSM Tree.md",
     "3.Resources/Books/Real MySQL/4장.md",
     "3.Resources/ChatGPT/ChatGPT 지니 프롬프트 번역 후 마크다운 추출 북마클렛.md",
     "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
