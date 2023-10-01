@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/Books/Real MySQL/10장 실행 계획.md",
+                "file": "5.Daily/2023-09-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/Books/Real MySQL/10장 실행 계획.md",
+                "file": "5.Daily/2023-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/Books/Real MySQL/10장 실행 계획.md",
+                "file": "5.Daily/2023-09-26.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/Books/Real MySQL/10장 실행 계획.md"
+                "file": "5.Daily/2023-09-26.md"
               }
             }
           },
@@ -180,10 +180,11 @@
   },
   "active": "031d7006db6b9a3c",
   "lastOpenFiles": [
-    "5.Daily/2023-09-24.md",
-    "3.Resources/Books/Real MySQL/10장 실행 계획.md",
-    "5.Daily/2023-09-29.md",
     "1.Project/SKP 프로젝트(가명)/무제 파일.md",
+    "5.Daily/2023-10-01.md",
+    "3.Resources/Books/Real MySQL/10장 실행 계획.md",
+    "5.Daily/2023-09-24.md",
+    "5.Daily/2023-09-29.md",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log/More About LSM Tree.md",
     "5.Daily/2023-09-26.md",
     "무제 파일.canvas",
@@ -223,7 +224,6 @@
     "2023-08-26.md",
     "2023-09-13.md",
     "무제 파일 2.canvas",
-    "1.Project/CS 스터디/Java.md",
     "3.Resources/Books/Real MySQL/assets/image.png",
     "3.Resources/Books/Real MySQL/assets/image-20230807171609327.png",
     "3.Resources/Books/Real MySQL/assets/image-20230807163522100.png",
