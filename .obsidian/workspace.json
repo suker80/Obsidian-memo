@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/Books/Real MySQL/10장 실행 계획.md",
+                "file": "1.Project/코테 연습/색깔 폭탄.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/Books/Real MySQL/10장 실행 계획.md",
+                "file": "1.Project/코테 연습/색깔 폭탄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/Books/Real MySQL/10장 실행 계획.md",
+                "file": "1.Project/코테 연습/색깔 폭탄.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/Books/Real MySQL/10장 실행 계획.md"
+                "file": "1.Project/코테 연습/색깔 폭탄.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,12 +180,23 @@
   },
   "active": "031d7006db6b9a3c",
   "lastOpenFiles": [
+    "1.Project/코테 연습/미로 타워 디펜스.md",
+    "1.Project/코테 연습/냉방 시스템.md",
+    "1.Project/코테 연습/Sam의 피자가게.md",
+    "1.Project/코테 연습/팩맨.md",
+    "1.Project/코테 연습/코드 트리 빵.md",
+    "무제 파일.md",
+    "1.Project/코테 연습/포탑 부수기.md",
+    "1.Project/코테 연습/메이즈 러너.md",
+    "1.Project/코테 연습/색깔 폭탄.md",
+    "1.Project/코테 연습",
+    "3.Resources/Books/Real MySQL/10장 실행 계획.md",
+    "1.Project/CS 스터디/Java.md",
     "5.Daily/2023-10-04.md",
     "5.Daily/2023-10-01.md",
     "5.Daily/2023-09-29.md",
     "5.Daily/2023-09-26.md",
     "1.Project/SKP 프로젝트(가명)/무제 파일.md",
-    "3.Resources/Books/Real MySQL/10장 실행 계획.md",
     "5.Daily/2023-09-24.md",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log/More About LSM Tree.md",
     "무제 파일.canvas",
@@ -203,26 +214,15 @@
     "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색 1.md",
     "4.Archive/Database/Index/클러스터 인덱스.md",
     "5.Daily/2023-09-23.md",
-    "4.Archive/File Structure/힙파일(Heap File).md",
     "images/Pasted image 20230924164159.png",
     "images",
     "images/Pasted image 20230924164032.png",
-    "999.Templates/간단 메모 템플릿.md",
-    "999.Templates/메모 기본 템플릿.md",
     "4.Archive/Database/etc",
     "4.Archive/Database/Index",
-    "4.Archive/Database/etc/블룸 필터(Bloom Filter).md",
     "4.Archive/File Structure",
-    "3.Resources/Books/Real MySQL/무제 2.md",
     "4.Archive/Database",
     "5.Daily",
-    "4.Archive/Daily/2023-09-22.md",
-    "4.Archive/Daily",
-    "2023-09-22.md",
-    "2023-09-02.md",
-    "2023-09-14.md",
     "무제 파일 1.canvas",
-    "2023-08-26.md",
     "무제 파일 2.canvas",
     "3.Resources/Books/Real MySQL/assets/image.png",
     "3.Resources/Books/Real MySQL/assets/image-20230807171609327.png",
