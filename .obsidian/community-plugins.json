@@ -1,12 +1,12 @@
 [
   "obsidian-git",
   "templater-obsidian",
-  "table-editor-obsidian",
   "calendar",
   "obsidian-full-calendar",
   "periodic-notes",
   "dataview",
   "cm-editor-syntax-highlight-obsidian",
   "highlightr-plugin",
-  "translate"
+  "translate",
+  "markdown-table-editor"
 ]

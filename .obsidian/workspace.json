@@ -4,19 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "7b3b005dad4e5f71",
+        "id": "1bd015f5df76776b",
         "type": "tabs",
         "children": [
           {
-            "id": "031d7006db6b9a3c",
+            "id": "a3dc4448db5bdf80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/코테 연습/색깔 폭탄.md",
+                "file": "무제 파일.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ac7d7e79c96a4de8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfeeacb6a0556eda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown-table-editor-view",
+              "state": {}
             }
           }
         ]
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/코테 연습/색깔 폭탄.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/코테 연습/색깔 폭탄.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/코테 연습/색깔 폭탄.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -172,25 +186,27 @@
       "command-palette:명령어 팔레트 열기": false,
       "publish:변경사항 출판": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "periodic-notes:Open today": false,
-      "translate:Open translation view": false
+      "translate:Open translation view": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "031d7006db6b9a3c",
+  "active": "a3dc4448db5bdf80",
   "lastOpenFiles": [
+    "3.Resources/Books/Real MySQL/10장 실행 계획.md",
+    "무제 파일.md",
+    "5.Daily/2023-10-06.md",
+    "images/Pasted image 20231006151748.png",
+    "1.Project/코테 연습/색깔 폭탄.md",
     "1.Project/코테 연습/미로 타워 디펜스.md",
     "1.Project/코테 연습/냉방 시스템.md",
     "1.Project/코테 연습/Sam의 피자가게.md",
     "1.Project/코테 연습/팩맨.md",
     "1.Project/코테 연습/코드 트리 빵.md",
-    "무제 파일.md",
     "1.Project/코테 연습/포탑 부수기.md",
     "1.Project/코테 연습/메이즈 러너.md",
-    "1.Project/코테 연습/색깔 폭탄.md",
     "1.Project/코테 연습",
-    "3.Resources/Books/Real MySQL/10장 실행 계획.md",
     "1.Project/CS 스터디/Java.md",
     "5.Daily/2023-10-04.md",
     "5.Daily/2023-10-01.md",
@@ -213,7 +229,6 @@
     "images/Pasted image 20230924203418.png",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색 1.md",
     "4.Archive/Database/Index/클러스터 인덱스.md",
-    "5.Daily/2023-09-23.md",
     "images/Pasted image 20230924164159.png",
     "images",
     "images/Pasted image 20230924164032.png",
