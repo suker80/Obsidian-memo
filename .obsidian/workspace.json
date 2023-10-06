@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/Books/Real MySQL/10장 실행 계획.md",
+                "file": "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/Books/Real MySQL/10장 실행 계획.md",
+                "file": "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +102,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/Books/Real MySQL/10장 실행 계획.md",
-                "linksCollapsed": true,
+                "file": "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/Books/Real MySQL/10장 실행 계획.md"
+                "file": "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,10 +181,18 @@
   },
   "active": "facaa24d9432f0ff",
   "lastOpenFiles": [
-    "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
+    "2023-10-06.md",
+    "무제 파일 1.canvas",
+    "3.Resources/Books/Real MySQL/10장/10.3 실행 계획 분석.md",
+    "3.Resources/Books/Real MySQL/10장/10.3.12 Extra 컬럼.md",
     "3.Resources/Books/Real MySQL/10장 실행 계획.md",
+    "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
+    "999.Templates/메모 기본 템플릿.md",
+    "999.Templates/간단 메모 템플릿.md",
     "3.Resources/Books/Real MySQL/10장/10.2 실행 계획 확인.md",
     "3.Resources/Books/Real MySQL/10장/10.1 통계 정보.md",
+    "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log/More About LSM Tree.md",
+    "1.Project/코테 연습/포탑 부수기.md",
     "3.Resources/Books/Real MySQL/10장",
     "무제 파일.md",
     "5.Daily/2023-10-06.md",
@@ -195,7 +203,6 @@
     "1.Project/코테 연습/Sam의 피자가게.md",
     "1.Project/코테 연습/팩맨.md",
     "1.Project/코테 연습/코드 트리 빵.md",
-    "1.Project/코테 연습/포탑 부수기.md",
     "1.Project/코테 연습/메이즈 러너.md",
     "1.Project/코테 연습",
     "1.Project/CS 스터디/Java.md",
@@ -203,15 +210,8 @@
     "5.Daily/2023-10-01.md",
     "5.Daily/2023-09-29.md",
     "5.Daily/2023-09-26.md",
-    "1.Project/SKP 프로젝트(가명)/무제 파일.md",
-    "5.Daily/2023-09-24.md",
-    "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log/More About LSM Tree.md",
     "무제 파일.canvas",
-    "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
     "1.Project/SKP 프로젝트(가명)",
-    "3.Resources/Books/데이터 중심 애플리케이션 설계/1장 데이터 시스템의 기초.md",
-    "3.Resources/Books/Real MySQL/4장.md",
-    "3.Resources/ChatGPT/ChatGPT 지니 프롬프트 번역 후 마크다운 추출 북마클렛.md",
     "3.Resources/ChatGPT",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log",
     "images/Pasted image 20230924205634.png",
@@ -224,7 +224,6 @@
     "4.Archive/Database/Index",
     "4.Archive/File Structure",
     "4.Archive/Database",
-    "무제 파일 1.canvas",
     "무제 파일 2.canvas",
     "3.Resources/Books/Real MySQL/assets/image.png",
     "3.Resources/Books/Real MySQL/assets/image-20230807171609327.png",
