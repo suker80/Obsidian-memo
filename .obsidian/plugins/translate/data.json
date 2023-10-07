@@ -65,7 +65,9 @@
   ],
   "service_settings": {
     "google_translate": {
-      "selected_languages": [],
+      "selected_languages": [
+        "ko"
+      ],
       "api_key": "",
       "auto_translate": false,
       "auto_translate_interval": 500,
@@ -211,7 +213,9 @@
       "version": "1.1.0"
     },
     "deepl": {
-      "selected_languages": [],
+      "selected_languages": [
+        "ko"
+      ],
       "api_key": "",
       "auto_translate": false,
       "auto_translate_interval": 500,
@@ -284,7 +288,9 @@
       "version": "1.0.3"
     },
     "yandex_translate": {
-      "selected_languages": [],
+      "selected_languages": [
+        "ko"
+      ],
       "api_key": "",
       "auto_translate": false,
       "auto_translate_interval": 500,
