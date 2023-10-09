@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "3378c3bfdb933b3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Resources/Books/Real MySQL/8장 인덱스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Resources/Books/Real MySQL/8장 인덱스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3.Resources/Books/Real MySQL/8장 인덱스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3.Resources/Books/Real MySQL/8장 인덱스.md"
+              }
             }
           },
           {
@@ -165,14 +182,16 @@
       "publish:변경사항 출판": false,
       "templater-obsidian:Templater": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "periodic-notes:Open today": false,
       "translate:Open translation view": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "facaa24d9432f0ff",
+  "active": "3378c3bfdb933b3a",
   "lastOpenFiles": [
+    "3.Resources/Books/Real MySQL/4장.md",
+    "3.Resources/Books/Real MySQL/8장 인덱스.md",
     "3.Resources/Books/Real MySQL/9장 옵티마이저와 힌트.md",
     "2023-10-06.md",
     "무제 파일 1.canvas",
@@ -201,7 +220,6 @@
     "5.Daily/2023-10-04.md",
     "5.Daily/2023-10-01.md",
     "5.Daily/2023-09-29.md",
-    "5.Daily/2023-09-26.md",
     "무제 파일.canvas",
     "1.Project/SKP 프로젝트(가명)",
     "3.Resources/ChatGPT",
