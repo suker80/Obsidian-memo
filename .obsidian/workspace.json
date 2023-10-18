@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a23de6dc36936a23",
@@ -182,11 +183,16 @@
   },
   "active": "e8babf85040fe7e0",
   "lastOpenFiles": [
+    "images/Pasted image 20231017173838.png",
+    "images/Pasted image 20231016235000.png",
+    "images/Pasted image 20231016234013.png",
+    "5.Daily/2023-10-14.md",
+    "p188.md",
+    "3.Resources/Books/데이터 중심 애플리케이션 설계/5장 복제.md",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/3장 저장소와 검색.md",
     "2023-10-13.md",
     "무제 파일 2.canvas",
     "3.Resources/Books/데이터 중심 애플리케이션 설계/GPT Log/More About LSM Tree.md",
-    "3.Resources/Books/데이터 중심 애플리케이션 설계/5장 복제.md",
     "images/Pasted image 20231013213533.png",
     "5.Daily/2023-10-09.md",
     "images/Pasted image 20231009223326.png",
@@ -211,9 +217,6 @@
     "1.Project/코테 연습/미로 타워 디펜스.md",
     "1.Project/코테 연습/냉방 시스템.md",
     "1.Project/코테 연습/Sam의 피자가게.md",
-    "1.Project/코테 연습/팩맨.md",
-    "1.Project/코테 연습/코드 트리 빵.md",
-    "1.Project/코테 연습/메이즈 러너.md",
     "1.Project/코테 연습",
     "무제 파일.canvas",
     "1.Project/SKP 프로젝트(가명)",
@@ -229,8 +232,6 @@
     "4.Archive/Database/Index",
     "4.Archive/File Structure",
     "4.Archive/Database",
-    "3.Resources/Books/Real MySQL/assets/image.png",
-    "3.Resources/Books/Real MySQL/assets/image-20230807171609327.png",
     "Untitled.canvas"
   ]
 }
